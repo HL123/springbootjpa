@@ -1,3 +1,3 @@
-*.sh linguist-language=java
+*.* linguist-language=java
 *.properties linguist-language=java
 *.md linguist-language=java
